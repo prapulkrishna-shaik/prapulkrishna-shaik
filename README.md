@@ -60,7 +60,7 @@
 </p>
 
 ---
-### 🐍 Contribution Snake Animation
+###  Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/prapulkrishna-shaik/prapulkrishna-shaik/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
