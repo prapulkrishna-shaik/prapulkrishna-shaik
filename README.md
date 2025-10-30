@@ -31,7 +31,9 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="(https://www.linkedin.com/in/shaik-prapul-krishna/)"/></a>
+<a href="https://www.linkedin.com/in/shaik-prapul-krishna/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
 <a href="mailto:shaikprapul4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 <a href="https://github.com/prapulkrishna-shaik" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
